@@ -1,0 +1,30 @@
+{
+  "name": "asys-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/agresid/api-asys.git).git"
+  },
+  "author": "Zidni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/agresid/api-asys.git)/issues"
+  },
+  "type": "module",
+  "homepage": "https://gitlab.com/agresid/api-asys.git)#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.25.3",
+    "x-xss-protection": "^2.0.0"
+  }
+}
